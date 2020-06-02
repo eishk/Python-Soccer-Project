@@ -1,6 +1,6 @@
 # cse163-project
 
-*_Analyzing the Effect of COVID-19 on the Financials of the Premier League_*
+**Analyzing the Effect of COVID-19 on the Financials of the Premier League**
 
 Research Questions: 
 What will the effect of COVID-19 be on the total revenue of the Premier League?
