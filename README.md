@@ -3,32 +3,32 @@
 **_Analyzing the Effect of COVID-19 on the Financials of the Premier League_**
 
 _Datasets:_
-https://www.theguardian.com/football/2018/jun/06/premier-league-finances-club-guide-2016-17
-https://www.theguardian.com/football/2019/may/22/premier-league-finances-club-guide-2017-18-accounts-manchester-united-city
-https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019&s_w=&leihe=0&intern=0&intern=1
-https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2018&s_w=&leihe=0&intern=0&intern=1
-https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset
-https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
+* https://www.theguardian.com/football/2018/jun/06/premier-league-finances-club-guide-2016-17
+* https://www.theguardian.com/football/2019/may/22/premier-league-finances-club-guide-2017-18-accounts-manchester-united-city
+* https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019&s_w=&leihe=0&intern=0&intern=1
+* https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2018&s_w=&leihe=0&intern=0&intern=1
+* https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset
+* https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
 
-Research Questions: 
+_Research Questions:_
 What will the effect of COVID-19 be on the total revenue of the Premier League?
 In comparison to the extremely high transfer fees paid before the coronavirus pandemic, how much will Premier League clubs pay for the same quality of player afterward?
 What combination of qualitative variables best determines the market value of a player? Is it age, nationality, position, overall quality, or a mixture of multiple?
 
-Motivation and background:
+_Motivation and background:_
 We believe this problem matters since the state of the world after shelter-in-place orders close worldwide will leave markets in shambles. As we find soccer really interesting, we were wondering how COVID-19 has and will affect the league. Answering the aforementioned questions will give us insight on how the future of the league may look.
 
-Challenge Goals:
+_Challenge Goals:_
 Implementing Multiple Datasets: In our project we dive into multiple datasets to answer questions about the Premier League
 Using Messy Data: We will need to use web scraping to acquire data from sites like The Guardian and TransferMarkt
 Employing Machine Learning: We will be using machine learning libraries and algorithms to accurately predict information relevant to our questions.
 
-Methodology:
+_Methodology:_
 Question 1: To answer this question, we will web scrape from sites like The Guardian to get a breakdown on each club’s finances by using a Python library called BeautifulSoup. From there, we can use Python libraries like Pandas to import the data into a script and perform various actions to prepare the data to be visualized using Matplotlib.
 Question 2: Similar to the last question, we use web scraping techniques to get the data from TransferMarkt and load the result into a Python script. From there, we will use Pandas to prepare for the data to be used in a machine learning regression model. Our regression model comes from a library called Sklearn which we can use to split the data into a training and test set. Using this regression model enables us to predict quantitative values, transfer fees in our case, after COVID-19 based on current data.
 Question 3: To answer this question, we get CSV data from Kaggle and import it into a Python script using Pandas. We then prepare the data by splitting it into a test and training set and feed it to a clustering machine learning model, again using the Sklearn library. From there, we train the model and use it to tell us which qualitative features of a player make them more or less attractive to a team.
 
-Work Plan:
+_Work Plan:_
 Web Scraping Script:
 For this part of the project, we plan on collaborating on the web scraping tool by using GitHub to share code. Our goal is to get done with the script by 5/26 so we can begin the next part of the project. We expect to spend around 3-5 hours each on this part of the project.
 Data Cleaning: 
