@@ -1,6 +1,6 @@
 # cse163-project
 
-**Analyzing the Effect of COVID-19 on the Financials of the Premier League**
+**_Analyzing the Effect of COVID-19 on the Financials of the Premier League_**
 
 Research Questions: 
 What will the effect of COVID-19 be on the total revenue of the Premier League?
@@ -11,6 +11,7 @@ Motivation and background:
 We believe this problem matters since the state of the world after shelter-in-place orders close worldwide will leave markets in shambles. As we find soccer really interesting, we were wondering how COVID-19 has and will affect the league. Answering the aforementioned questions will give us insight on how the future of the league may look.
 
 Datasets:
+
 https://www.theguardian.com/football/2018/jun/06/premier-league-finances-club-guide-2016-17
 https://www.theguardian.com/football/2019/may/22/premier-league-finances-club-guide-2017-18-accounts-manchester-united-city
 https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019&s_w=&leihe=0&intern=0&intern=1
