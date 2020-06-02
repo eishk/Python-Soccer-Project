@@ -12,9 +12,9 @@ _Datasets:_
 
 
 _Research Questions:_
-What will the effect of COVID-19 be on the total revenue of the Premier League?
-In comparison to the extremely high transfer fees paid before the coronavirus pandemic, how much will Premier League clubs pay for the same quality of player afterward?
-What combination of qualitative variables best determines the market value of a player? Is it age, nationality, position, overall quality, or a mixture of multiple?
+* What will the effect of COVID-19 be on the total revenue of the Premier League?
+* In comparison to the extremely high transfer fees paid before the coronavirus pandemic, how much will Premier League clubs pay for the same quality of player afterward?
+* What combination of qualitative variables best determines the market value of a player? Is it age, nationality, position, overall quality, or a mixture of multiple?
 
 _Motivation and background:_
 We believe this problem matters since the state of the world after shelter-in-place orders close worldwide will leave markets in shambles. As we find soccer really interesting, we were wondering how COVID-19 has and will affect the league. Answering the aforementioned questions will give us insight on how the future of the league may look.
