@@ -2,6 +2,14 @@
 
 **_Analyzing the Effect of COVID-19 on the Financials of the Premier League_**
 
+_Datasets:_
+https://www.theguardian.com/football/2018/jun/06/premier-league-finances-club-guide-2016-17
+https://www.theguardian.com/football/2019/may/22/premier-league-finances-club-guide-2017-18-accounts-manchester-united-city
+https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019&s_w=&leihe=0&intern=0&intern=1
+https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2018&s_w=&leihe=0&intern=0&intern=1
+https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset
+https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
+
 Research Questions: 
 What will the effect of COVID-19 be on the total revenue of the Premier League?
 In comparison to the extremely high transfer fees paid before the coronavirus pandemic, how much will Premier League clubs pay for the same quality of player afterward?
@@ -9,15 +17,6 @@ What combination of qualitative variables best determines the market value of a 
 
 Motivation and background:
 We believe this problem matters since the state of the world after shelter-in-place orders close worldwide will leave markets in shambles. As we find soccer really interesting, we were wondering how COVID-19 has and will affect the league. Answering the aforementioned questions will give us insight on how the future of the league may look.
-
-Datasets:
-
-https://www.theguardian.com/football/2018/jun/06/premier-league-finances-club-guide-2016-17
-https://www.theguardian.com/football/2019/may/22/premier-league-finances-club-guide-2017-18-accounts-manchester-united-city
-https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2019&s_w=&leihe=0&intern=0&intern=1
-https://www.transfermarkt.us/premier-league/transfers/wettbewerb/GB1/plus/?saison_id=2018&s_w=&leihe=0&intern=0&intern=1
-https://www.kaggle.com/kevinmh/fifa-18-more-complete-player-dataset
-https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset
 
 Challenge Goals:
 Implementing Multiple Datasets: In our project we dive into multiple datasets to answer questions about the Premier League
