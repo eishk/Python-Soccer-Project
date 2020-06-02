@@ -1,0 +1,7 @@
+#/bin/bash
+
+# this file just cleans .pyc files from the current directory
+# use is "./clean" if you can't execute run "chmod u+x clean" and try again
+
+rm -rf ./*.pyc
+echo ... removed all .pyc files
