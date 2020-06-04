@@ -1,0 +1,632 @@
+Name,Value,Team
+Ederson,61600000.0,Manchester City
+Arijanet Muric,1980000.0,Manchester City
+Claudio Bravo,1320000.0,Manchester City
+Aymeric Laporte,66000000.0,Manchester City
+John Stones,39600000.0,Manchester City
+Nicolás Otamendi,15950000.0,Manchester City
+Eric García,6930000.0,Manchester City
+Tosin Adarabioyo,3080000.0,Manchester City
+Joel Latibeaudiere,110000.0,Manchester City
+Benjamin Mendy,30800000.0,Manchester City
+Oleksandr Zinchenko,26400000.0,Manchester City
+Kyle Walker,44000000.0,Manchester City
+João Cancelo,39600000.0,Manchester City
+Rodri,70400000.0,Manchester City
+Fernandinho,8800000.0,Manchester City
+Ilkay Gündogan,44000000.0,Manchester City
+Phil Foden,29700000.0,Manchester City
+Kevin De Bruyne,132000000.0,Manchester City
+David Silva,13200000.0,Manchester City
+Ryotaro Meshino,495000.0,Manchester City
+Raheem Sterling,140800000.0,Manchester City
+Leroy Sané,88000000.0,Manchester City
+Jack Harrison,5720000.0,Manchester City
+Bernardo Silva,88000000.0,Manchester City
+Riyad Mahrez,52800000.0,Manchester City
+Patrick Roberts,3080000.0,Manchester City
+Gabriel Jesus,61600000.0,Manchester City
+Sergio Agüero,57200000.0,Manchester City
+Alisson,79200000.0,Liverpool FC
+Adrián,4400000.0,Liverpool FC
+Loris Karius,3520000.0,Liverpool FC
+Caoimhin Kelleher,990000.0,Liverpool FC
+Andy Lonergan,275000.0,Liverpool FC
+Virgil van Dijk,88000000.0,Liverpool FC
+Joe Gomez,36850000.0,Liverpool FC
+Joel Matip,35200000.0,Liverpool FC
+Dejan Lovren,17600000.0,Liverpool FC
+Andrew Robertson,70400000.0,Liverpool FC
+Trent Alexander-Arnold,108900000.0,Liverpool FC
+Nathaniel Clyne,8800000.0,Liverpool FC
+Fabinho,61600000.0,Liverpool FC
+Georginio Wijnaldum,44000000.0,Liverpool FC
+Naby Keïta,36850000.0,Liverpool FC
+Jordan Henderson,30800000.0,Liverpool FC
+Alex Oxlade-Chamberlain,30800000.0,Liverpool FC
+James Milner,7150000.0,Liverpool FC
+Ovie Ejaria,3520000.0,Liverpool FC
+Curtis Jones,1980000.0,Liverpool FC
+Adam Lallana,10450000.0,Liverpool FC
+Ben Woodburn,4950000.0,Liverpool FC
+Sadio Mané,132000000.0,Liverpool FC
+Takumi Minamino,11000000.0,Liverpool FC
+Mohamed Salah,132000000.0,Liverpool FC
+Harry Wilson,19250000.0,Liverpool FC
+Xherdan Shaqiri,17600000.0,Liverpool FC
+Sheyi Ojo,1760000.0,Liverpool FC
+Roberto Firmino,79200000.0,Liverpool FC
+Divock Origi,17600000.0,Liverpool FC
+Hugo Lloris,15950000.0,Tottenham Hotspur
+Paulo Gazzaniga,3080000.0,Tottenham Hotspur
+Michel Vorm,880000.0,Tottenham Hotspur
+Alfie Whiteman,0,Tottenham Hotspur
+Davinson Sánchez,52800000.0,Tottenham Hotspur
+Toby Alderweireld,26400000.0,Tottenham Hotspur
+Jan Vertonghen,15950000.0,Tottenham Hotspur
+Juan Foyth,14850000.0,Tottenham Hotspur
+Japhet Tanganga,7920000.0,Tottenham Hotspur
+Cameron Carter-Vickers,2200000.0,Tottenham Hotspur
+Ben Davies,19250000.0,Tottenham Hotspur
+Serge Aurier,17600000.0,Tottenham Hotspur
+Kyle Walker-Peters,8800000.0,Tottenham Hotspur
+Eric Dier,22000000.0,Tottenham Hotspur
+Oliver Skipp,7920000.0,Tottenham Hotspur
+Tanguy Ndombélé,57200000.0,Tottenham Hotspur
+Giovani Lo Celso,44000000.0,Tottenham Hotspur
+Harry Winks,35200000.0,Tottenham Hotspur
+Moussa Sissoko,22000000.0,Tottenham Hotspur
+Gedson Fernandes,14850000.0,Tottenham Hotspur
+Ryan Sessegnon,34650000.0,Tottenham Hotspur
+Dele Alli,70400000.0,Tottenham Hotspur
+Heung-min Son,70400000.0,Tottenham Hotspur
+Steven Bergwijn,30800000.0,Tottenham Hotspur
+Lucas Moura,35200000.0,Tottenham Hotspur
+Erik Lamela,17600000.0,Tottenham Hotspur
+Jack Clarke,5940000.0,Tottenham Hotspur
+Harry Kane,132000000.0,Tottenham Hotspur
+Kepa,35200000.0,Chelsea FC
+Willy Caballero,660000.0,Chelsea FC
+Jamal Blackman,440000.0,Chelsea FC
+Antonio Rüdiger,44000000.0,Chelsea FC
+Kurt Zouma,30800000.0,Chelsea FC
+Andreas Christensen,26400000.0,Chelsea FC
+Fikayo Tomori,17600000.0,Chelsea FC
+Matt Miazga,2200000.0,Chelsea FC
+Emerson,26400000.0,Chelsea FC
+Marcos Alonso,22000000.0,Chelsea FC
+César Azpilicueta,26400000.0,Chelsea FC
+Reece James,24750000.0,Chelsea FC
+Jorginho,57200000.0,Chelsea FC
+N'Golo Kanté,88000000.0,Chelsea FC
+Mateo Kovacic,39600000.0,Chelsea FC
+Ruben Loftus-Cheek,26400000.0,Chelsea FC
+Ross Barkley,23650000.0,Chelsea FC
+Billy Gilmour,5940000.0,Chelsea FC
+Marco van Ginkel,3520000.0,Chelsea FC
+Lewis Baker,3080000.0,Chelsea FC
+Danilo Pantic,1540000.0,Chelsea FC
+Mason Mount,44550000.0,Chelsea FC
+Christian Pulisic,59400000.0,Chelsea FC
+Callum Hudson-Odoi,34650000.0,Chelsea FC
+Willian,24750000.0,Chelsea FC
+Pedro,10450000.0,Chelsea FC
+Tammy Abraham,44000000.0,Chelsea FC
+Michy Batshuayi,19250000.0,Chelsea FC
+Olivier Giroud,7700000.0,Chelsea FC
+David de Gea,44000000.0,Manchester United
+Sergio Romero,3080000.0,Manchester United
+Lee Grant,660000.0,Manchester United
+Joel Pereira,523000.0,Manchester United
+Harry Maguire,61600000.0,Manchester United
+Victor Lindelöf,30800000.0,Manchester United
+Eric Bailly,19250000.0,Manchester United
+Axel Tuanzebe,8800000.0,Manchester United
+Phil Jones,7700000.0,Manchester United
+Luke Shaw,19250000.0,Manchester United
+Brandon Williams,12100000.0,Manchester United
+Cameron Borthwick-Jackson,880000.0,Manchester United
+Aaron Wan-Bissaka,35200000.0,Manchester United
+Diogo Dalot,19800000.0,Manchester United
+Timothy Fosu-Mensah,6930000.0,Manchester United
+Nemanja Matic,17600000.0,Manchester United
+Paul Pogba,88000000.0,Manchester United
+Scott McTominay,24750000.0,Manchester United
+Fred,19250000.0,Manchester United
+Bruno Fernandes,52800000.0,Manchester United
+Andreas Pereira,17600000.0,Manchester United
+Juan Mata,10450000.0,Manchester United
+Marcus Rashford,70400000.0,Manchester United
+Daniel James,24750000.0,Manchester United
+Jesse Lingard,19250000.0,Manchester United
+Tahith Chong,6930000.0,Manchester United
+Anthony Martial,52800000.0,Manchester United
+Mason Greenwood,31900000.0,Manchester United
+Odion Ighalo,5720000.0,Manchester United
+Name,Value,Team
+Bernd Leno,30800000.0,Arsenal FC
+Emiliano Martínez,3080000.0,Arsenal FC
+Matt Macey,275000.0,Arsenal FC
+Sokratis,15950000.0,Arsenal FC
+Shkodran Mustafi,13200000.0,Arsenal FC
+David Luiz,13200000.0,Arsenal FC
+Rob Holding,10450000.0,Arsenal FC
+Pablo Marí,5280000.0,Arsenal FC
+Kieran Tierney,22000000.0,Arsenal FC
+Sead Kolasinac,17600000.0,Arsenal FC
+Héctor Bellerín,35200000.0,Arsenal FC
+Ainsley Maitland-Niles,15950000.0,Arsenal FC
+Calum Chambers,15950000.0,Arsenal FC
+Lucas Torreira,39600000.0,Arsenal FC
+Granit Xhaka,26400000.0,Arsenal FC
+Mattéo Guendouzi,44550000.0,Arsenal FC
+Dani Ceballos,35200000.0,Arsenal FC
+Joe Willock,17600000.0,Arsenal FC
+Mesut Özil,19250000.0,Arsenal FC
+Bukayo Saka,22000000.0,Arsenal FC
+Nicolas Pépé,57200000.0,Arsenal FC
+Reiss Nelson,13750000.0,Arsenal FC
+Pierre-Emerick Aubameyang,61600000.0,Arsenal FC
+Alexandre Lacazette,52800000.0,Arsenal FC
+Gabriel Martinelli,27500000.0,Arsenal FC
+Eddie Nketiah,12100000.0,Arsenal FC
+Jordan Pickford,30800000.0,Everton FC
+Jonas Lössl,3520000.0,Everton FC
+Maarten Stekelenburg,605000.0,Everton FC
+Michael Keane,22000000.0,Everton FC
+Yerry Mina,22000000.0,Everton FC
+Mason Holgate,14850000.0,Everton FC
+Matthew Pennington,880000.0,Everton FC
+Lucas Digne,30800000.0,Everton FC
+Leighton Baines,1760000.0,Everton FC
+Luke Garbutt,660000.0,Everton FC
+Djibril Sidibé,10450000.0,Everton FC
+Seamus Coleman,10450000.0,Everton FC
+Cuco Martina,1320000.0,Everton FC
+Jean-Philippe Gbamin,24750000.0,Everton FC
+Morgan Schneiderlin,10450000.0,Everton FC
+Muhamed Besic,2640000.0,Everton FC
+André Gomes,24750000.0,Everton FC
+Tom Davies,17600000.0,Everton FC
+Fabian Delph,13200000.0,Everton FC
+Beni Baningime,1430000.0,Everton FC
+Gylfi Sigurdsson,24750000.0,Everton FC
+Kieran Dowell,2200000.0,Everton FC
+Alex Iwobi,28050000.0,Everton FC
+Bernard,17600000.0,Everton FC
+Theo Walcott,13200000.0,Everton FC
+Richarlison,57200000.0,Everton FC
+Moise Kean,27500000.0,Everton FC
+Dominic Calvert-Lewin,26400000.0,Everton FC
+Cenk Tosun,13200000.0,Everton FC
+Oumar Niasse,3520000.0,Everton FC
+Kasper Schmeichel,10450000.0,Leicester City
+Danny Ward,7150000.0,Leicester City
+Eldin Jakupovic,660000.0,Leicester City
+Caglar Söyüncü,35200000.0,Leicester City
+Jonny Evans,13200000.0,Leicester City
+Filip Benkovic,7700000.0,Leicester City
+Wes Morgan,1320000.0,Leicester City
+Ben Chilwell,44000000.0,Leicester City
+Christian Fuchs,1760000.0,Leicester City
+Ricardo Pereira,35200000.0,Leicester City
+James Justin,3960000.0,Leicester City
+Wilfred Ndidi,39600000.0,Leicester City
+Hamza Choudhury,8800000.0,Leicester City
+Daniel Amartey,6050000.0,Leicester City
+Nampalys Mendy,6050000.0,Leicester City
+Youri Tielemans,48400000.0,Leicester City
+Dennis Praet,20900000.0,Leicester City
+Andy King,1320000.0,Leicester City
+Matty James,1320000.0,Leicester City
+Marc Albrighton,8800000.0,Leicester City
+Harvey Barnes,19250000.0,Leicester City
+James Maddison,52800000.0,Leicester City
+Bartosz Kapustka,1320000.0,Leicester City
+George Thomas,275000.0,Leicester City
+Demarai Gray,15950000.0,Leicester City
+Ayoze Pérez,26400000.0,Leicester City
+Jamie Vardy,17600000.0,Leicester City
+Kelechi Iheanacho,13200000.0,Leicester City
+Rui Patrício,17600000.0,Wolverhampton Wanderers
+John Ruddy,2200000.0,Wolverhampton Wanderers
+Will Norris,275000.0,Wolverhampton Wanderers
+Willy Boly,15950000.0,Wolverhampton Wanderers
+Conor Coady,15950000.0,Wolverhampton Wanderers
+Ryan Bennett,4400000.0,Wolverhampton Wanderers
+Romain Saïss,4400000.0,Wolverhampton Wanderers
+Max Kilman,880000.0,Wolverhampton Wanderers
+Jonny Otto,17600000.0,Wolverhampton Wanderers
+Rúben Vinagre,9900000.0,Wolverhampton Wanderers
+Matt Doherty,17600000.0,Wolverhampton Wanderers
+Luke Matheson,990000.0,Wolverhampton Wanderers
+Phil Ofosu-Ayeh,330000.0,Wolverhampton Wanderers
+Rúben Neves,44000000.0,Wolverhampton Wanderers
+Leander Dendoncker,24750000.0,Wolverhampton Wanderers
+João Moutinho,8800000.0,Wolverhampton Wanderers
+Morgan Gibbs-White,7920000.0,Wolverhampton Wanderers
+Bruno Jordão,2530000.0,Wolverhampton Wanderers
+Connor Ronan,495000.0,Wolverhampton Wanderers
+Ming-Yang Yang,275000.0,Wolverhampton Wanderers
+Diogo Jota,30800000.0,Wolverhampton Wanderers
+Daniel Podence,13200000.0,Wolverhampton Wanderers
+Jordan Graham,275000.0,Wolverhampton Wanderers
+Adama Traoré,28050000.0,Wolverhampton Wanderers
+Pedro Neto,12650000.0,Wolverhampton Wanderers
+Raúl Jiménez,44000000.0,Wolverhampton Wanderers
+Leonardo Campana,1980000.0,Wolverhampton Wanderers
+Name,Value,Team
+Aaron Ramsdale,13750000.0,AFC Bournemouth
+Artur Boruc,440000.0,AFC Bournemouth
+Mark Travers,275000.0,AFC Bournemouth
+Nathan Aké,30800000.0,AFC Bournemouth
+Steve Cook,10450000.0,AFC Bournemouth
+Chris Mepham,8800000.0,AFC Bournemouth
+Jack Simpson,1320000.0,AFC Bournemouth
+Diego Rico,8800000.0,AFC Bournemouth
+Lloyd Kelly,8800000.0,AFC Bournemouth
+Charlie Daniels,1760000.0,AFC Bournemouth
+Brad Smith,880000.0,AFC Bournemouth
+Adam Smith,7700000.0,AFC Bournemouth
+Jack Stacey,3520000.0,AFC Bournemouth
+Simon Francis,880000.0,AFC Bournemouth
+Jefferson Lerma,22000000.0,AFC Bournemouth
+Lewis Cook,17600000.0,AFC Bournemouth
+Philip Billing,15950000.0,AFC Bournemouth
+Harry Arter,3850000.0,AFC Bournemouth
+Dan Gosling,2200000.0,AFC Bournemouth
+Andrew Surman,1760000.0,AFC Bournemouth
+Nnamdi Ofoborh,165000.0,AFC Bournemouth
+Matt Butcher,83000.0,AFC Bournemouth
+Kyle Taylor,0,AFC Bournemouth
+David Brooks,26400000.0,AFC Bournemouth
+Ryan Fraser,19250000.0,AFC Bournemouth
+Arnaut Danjuma,10450000.0,AFC Bournemouth
+Junior Stanislas,2200000.0,AFC Bournemouth
+Jordon Ibe,5280000.0,AFC Bournemouth
+Joshua King,17600000.0,AFC Bournemouth
+Callum Wilson,26400000.0,AFC Bournemouth
+Dominic Solanke,13200000.0,AFC Bournemouth
+Jermain Defoe,1540000.0,AFC Bournemouth
+Sam Surridge,495000.0,AFC Bournemouth
+Martin Dubravka,6050000.0,Newcastle United
+Freddie Woodman,3520000.0,Newcastle United
+Karl Darlow,2640000.0,Newcastle United
+Rob Elliot,660000.0,Newcastle United
+Jamaal Lascelles,15950000.0,Newcastle United
+Fabian Schär,14300000.0,Newcastle United
+Paul Dummett,6050000.0,Newcastle United
+Federico Fernández,6050000.0,Newcastle United
+Ciaran Clark,5280000.0,Newcastle United
+Florian Lejeune,5280000.0,Newcastle United
+Danny Rose,17600000.0,Newcastle United
+Matt Ritchie,10450000.0,Newcastle United
+Jetro Willems,6050000.0,Newcastle United
+DeAndre Yedlin,7150000.0,Newcastle United
+Emil Krafth,4400000.0,Newcastle United
+Javier Manquillo,4400000.0,Newcastle United
+Jamie Sterry,83000.0,Newcastle United
+Isaac Hayden,8800000.0,Newcastle United
+Matthew Longstaff,3960000.0,Newcastle United
+Jack Colback,1760000.0,Newcastle United
+Sean Longstaff,19250000.0,Newcastle United
+Jonjo Shelvey,15950000.0,Newcastle United
+Nabil Bentaleb,4400000.0,Newcastle United
+Dan Barlaser,0,Newcastle United
+Valentino Lazaro,16500000.0,Newcastle United
+Miguel Almirón,17600000.0,Newcastle United
+Henri Saivet,880000.0,Newcastle United
+Allan Saint-Maximin,22000000.0,Newcastle United
+Christian Atsu,5280000.0,Newcastle United
+Rolando Aarons,440000.0,Newcastle United
+Jacob Murphy,3850000.0,Newcastle United
+Joelinton,22000000.0,Newcastle United
+Dwight Gayle,10450000.0,Newcastle United
+Yoshinori Muto,6050000.0,Newcastle United
+Andy Carroll,3520000.0,Newcastle United
+Tom Heaton,5280000.0,Aston Villa
+Jed Steer,1320000.0,Aston Villa
+Örjan Nyland,1320000.0,Aston Villa
+Pepe Reina,715000.0,Aston Villa
+Matija Sarkic,110000.0,Aston Villa
+Tyrone Mings,24750000.0,Aston Villa
+Björn Engels,10450000.0,Aston Villa
+Ezri Konsa,7150000.0,Aston Villa
+Kortney Hause,7150000.0,Aston Villa
+James Chester,2640000.0,Aston Villa
+Matt Targett,11550000.0,Aston Villa
+Neil Taylor,3080000.0,Aston Villa
+Frédéric Guilbert,7700000.0,Aston Villa
+Ahmed Elmohamady,2200000.0,Aston Villa
+James Bree,1320000.0,Aston Villa
+Marvelous Nakamba,8800000.0,Aston Villa
+Douglas Luiz,19800000.0,Aston Villa
+John McGinn,17600000.0,Aston Villa
+Conor Hourihane,6600000.0,Aston Villa
+Danny Drinkwater,5280000.0,Aston Villa
+Henri Lansbury,1320000.0,Aston Villa
+Jack Grealish,33549999.999999996,Aston Villa
+Trezeguet,8800000.0,Aston Villa
+Andre Green,1980000.0,Aston Villa
+Anwar El Ghazi,8800000.0,Aston Villa
+Jota,3850000.0,Aston Villa
+Wesley,26400000.0,Aston Villa
+Mbwana Samatta,10450000.0,Aston Villa
+Scott Hogan,3520000.0,Aston Villa
+Borja Bastón,3520000.0,Aston Villa
+Keinan Davis,2530000.0,Aston Villa
+Rushian Hepburn-Murphy,990000.0,Aston Villa
+Mathew Ryan,8800000.0,Brighton & Hove Albion
+David Button,1320000.0,Brighton & Hove Albion
+Christian Walton,880000.0,Brighton & Hove Albion
+Jason Steele,660000.0,Brighton & Hove Albion
+Lewis Dunk,17600000.0,Brighton & Hove Albion
+Adam Webster,13200000.0,Brighton & Hove Albion
+Shane Duffy,10450000.0,Brighton & Hove Albion
+Dan Burn,4400000.0,Brighton & Hove Albion
+Matt Clarke,2200000.0,Brighton & Hove Albion
+Leon Balogun,880000.0,Brighton & Hove Albion
+Bernardo,5280000.0,Brighton & Hove Albion
+Martín Montoya,7150000.0,Brighton & Hove Albion
+Tariq Lamptey,3520000.0,Brighton & Hove Albion
+Ezequiel Schelotto,1320000.0,Brighton & Hove Albion
+Davy Pröpper,14850000.0,Brighton & Hove Albion
+Yves Bissouma,10450000.0,Brighton & Hove Albion
+Pascal Groß,10450000.0,Brighton & Hove Albion
+Aaron Mooy,10450000.0,Brighton & Hove Albion
+Dale Stephens,5280000.0,Brighton & Hove Albion
+Beram Kayal,1320000.0,Brighton & Hove Albion
+Solly March,7150000.0,Brighton & Hove Albion
+Alexis Mac Allister,12100000.0,Brighton & Hove Albion
+Steven Alzate,2530000.0,Brighton & Hove Albion
+Leandro Trossard,14300000.0,Brighton & Hove Albion
+José Izquierdo,7150000.0,Brighton & Hove Albion
+Anthony Knockaert,7150000.0,Brighton & Hove Albion
+Alireza Jahanbakhsh,7150000.0,Brighton & Hove Albion
+Neal Maupay,19250000.0,Brighton & Hove Albion
+Aaron Connolly,4400000.0,Brighton & Hove Albion
+Jan Mlakar,1980000.0,Brighton & Hove Albion
+Glenn Murray,1760000.0,Brighton & Hove Albion
+Angus Gunn,7150000.0,Southampton FC
+Alex McCarthy,4400000.0,Southampton FC
+Jack Rose,110000.0,Southampton FC
+Jannik Vestergaard,13200000.0,Southampton FC
+Jan Bednarek,13200000.0,Southampton FC
+Kevin Danso,6930000.0,Southampton FC
+Jack Stephens,6050000.0,Southampton FC
+Ryan Bertrand,11550000.0,Southampton FC
+Sam McQueen,880000.0,Southampton FC
+Cédric Soares,8800000.0,Southampton FC
+Yan Valery,6930000.0,Southampton FC
+Oriol Romeu,8800000.0,Southampton FC
+Harrison Reed,2640000.0,Southampton FC
+James Ward-Prowse,15950000.0,Southampton FC
+Pierre-Emile Höjbjerg,13200000.0,Southampton FC
+Stuart Armstrong,7150000.0,Southampton FC
+Jake Hesketh,220000.0,Southampton FC
+Nathan Redmond,17600000.0,Southampton FC
+Moussa Djenepo,12100000.0,Southampton FC
+Mohamed Elyounoussi,10450000.0,Southampton FC
+Sofiane Boufal,8800000.0,Southampton FC
+Danny Ings,19250000.0,Southampton FC
+Che Adams,10450000.0,Southampton FC
+Michael Obafemi,4950000.0,Southampton FC
+Shane Long,3080000.0,Southampton FC
+Name,Value,Team
+Nick Pope,10450000.0,Burnley FC
+Joe Hart,2640000.0,Burnley FC
+Bailey Peacock-Farrell,1320000.0,Burnley FC
+Adam Legzdins,275000.0,Burnley FC
+James Tarkowski,22000000.0,Burnley FC
+Ben Mee,8800000.0,Burnley FC
+Ben Gibson,7150000.0,Burnley FC
+Kevin Long,1760000.0,Burnley FC
+Charlie Taylor,4400000.0,Burnley FC
+Erik Pieters,4400000.0,Burnley FC
+Matthew Lowton,4400000.0,Burnley FC
+Phil Bardsley,880000.0,Burnley FC
+Jack Cork,13200000.0,Burnley FC
+Ashley Westwood,6050000.0,Burnley FC
+Jeff Hendrick,9900000.0,Burnley FC
+Josh Brownhill,6050000.0,Burnley FC
+Robbie Brady,5280000.0,Burnley FC
+Dwight McNeil,19800000.0,Burnley FC
+Jóhann Berg Gudmundsson,8800000.0,Burnley FC
+Aaron Lennon,2640000.0,Burnley FC
+Chris Wood,15950000.0,Burnley FC
+Ashley Barnes,8800000.0,Burnley FC
+Jay Rodríguez,5280000.0,Burnley FC
+Matej Vydra,4400000.0,Burnley FC
+Tim Krul,4400000.0,Norwich City
+Michael McGovern,330000.0,Norwich City
+Ben Godfrey,12650000.0,Norwich City
+Christoph Zimmermann,3080000.0,Norwich City
+Grant Hanley,2200000.0,Norwich City
+Timm Klose,2200000.0,Norwich City
+Sean Raggett,275000.0,Norwich City
+Jamal Lewis,12100000.0,Norwich City
+Sam McCallum,0,Norwich City
+Max Aarons,22000000.0,Norwich City
+Sam Byram,3080000.0,Norwich City
+Tom Trybull,3520000.0,Norwich City
+Alexander Tettey,1760000.0,Norwich City
+Louis Thompson,275000.0,Norwich City
+Kenny McLean,3850000.0,Norwich City
+Lukas Rupp,2640000.0,Norwich City
+Moritz Leitner,2640000.0,Norwich City
+Mario Vrancic,2200000.0,Norwich City
+Todd Cantwell,22000000.0,Norwich City
+Josh Coley,110000.0,Norwich City
+Ondrej Duda,11550000.0,Norwich City
+Marco Stiepermann,3520000.0,Norwich City
+Onel Hernández,3520000.0,Norwich City
+Emiliano Buendía,15950000.0,Norwich City
+Teemu Pukki,8800000.0,Norwich City
+Josip Drmic,1760000.0,Norwich City
+Carlton Morris,165000.0,Norwich City
+Mason Bloomfield,83000.0,Norwich City
+Name,Value,Team
+Nick Pope,10450000.0,Burnley FC
+Joe Hart,2640000.0,Burnley FC
+Bailey Peacock-Farrell,1320000.0,Burnley FC
+Adam Legzdins,275000.0,Burnley FC
+James Tarkowski,22000000.0,Burnley FC
+Ben Mee,8800000.0,Burnley FC
+Ben Gibson,7150000.0,Burnley FC
+Kevin Long,1760000.0,Burnley FC
+Charlie Taylor,4400000.0,Burnley FC
+Erik Pieters,4400000.0,Burnley FC
+Matthew Lowton,4400000.0,Burnley FC
+Phil Bardsley,880000.0,Burnley FC
+Jack Cork,13200000.0,Burnley FC
+Ashley Westwood,6050000.0,Burnley FC
+Jeff Hendrick,9900000.0,Burnley FC
+Josh Brownhill,6050000.0,Burnley FC
+Robbie Brady,5280000.0,Burnley FC
+Dwight McNeil,19800000.0,Burnley FC
+Jóhann Berg Gudmundsson,8800000.0,Burnley FC
+Aaron Lennon,2640000.0,Burnley FC
+Chris Wood,15950000.0,Burnley FC
+Ashley Barnes,8800000.0,Burnley FC
+Jay Rodríguez,5280000.0,Burnley FC
+Matej Vydra,4400000.0,Burnley FC
+Tim Krul,4400000.0,Norwich City
+Michael McGovern,330000.0,Norwich City
+Ben Godfrey,12650000.0,Norwich City
+Christoph Zimmermann,3080000.0,Norwich City
+Grant Hanley,2200000.0,Norwich City
+Timm Klose,2200000.0,Norwich City
+Sean Raggett,275000.0,Norwich City
+Jamal Lewis,12100000.0,Norwich City
+Sam McCallum,0,Norwich City
+Max Aarons,22000000.0,Norwich City
+Sam Byram,3080000.0,Norwich City
+Tom Trybull,3520000.0,Norwich City
+Alexander Tettey,1760000.0,Norwich City
+Louis Thompson,275000.0,Norwich City
+Kenny McLean,3850000.0,Norwich City
+Lukas Rupp,2640000.0,Norwich City
+Moritz Leitner,2640000.0,Norwich City
+Mario Vrancic,2200000.0,Norwich City
+Todd Cantwell,22000000.0,Norwich City
+Josh Coley,110000.0,Norwich City
+Ondrej Duda,11550000.0,Norwich City
+Marco Stiepermann,3520000.0,Norwich City
+Onel Hernández,3520000.0,Norwich City
+Emiliano Buendía,15950000.0,Norwich City
+Teemu Pukki,8800000.0,Norwich City
+Josip Drmic,1760000.0,Norwich City
+Carlton Morris,165000.0,Norwich City
+Mason Bloomfield,83000.0,Norwich City
+Michael Verrips,880000.0,Sheffield United
+Simon Moore,440000.0,Sheffield United
+Jake Eastwood,110000.0,Sheffield United
+Jack O'Connell,10450000.0,Sheffield United
+John Egan,10450000.0,Sheffield United
+Panagiotis Retsos,8800000.0,Sheffield United
+Chris Basham,2640000.0,Sheffield United
+Phil Jagielka,880000.0,Sheffield United
+Ben Heneghan,440000.0,Sheffield United
+Kean Bryan,275000.0,Sheffield United
+Enda Stevens,6050000.0,Sheffield United
+Jack Robinson,2200000.0,Sheffield United
+George Baldock,5280000.0,Sheffield United
+Kieron Freeman,1320000.0,Sheffield United
+Sander Berge,22000000.0,Sheffield United
+Jack Rodwell,1320000.0,Sheffield United
+John Lundstram,8800000.0,Sheffield United
+John Fleck,7150000.0,Sheffield United
+Oliver Norwood,7150000.0,Sheffield United
+Ben Osborn,2200000.0,Sheffield United
+Luke Freeman,3080000.0,Sheffield United
+Ravel Morrison,660000.0,Sheffield United
+Callum Robinson,6050000.0,Sheffield United
+Ricky Holmes,275000.0,Sheffield United
+Nathan Thomas,275000.0,Sheffield United
+Lys Mousset,10450000.0,Sheffield United
+Oliver McBurnie,8800000.0,Sheffield United
+Billy Sharp,1760000.0,Sheffield United
+David McGoldrick,1760000.0,Sheffield United
+Richairo Zivkovic,715000.0,Sheffield United
+Leon Clarke,330000.0,Sheffield United
+Lukasz Fabianski,3520000.0,West Ham United
+Darren Randolph,3080000.0,West Ham United
+David Martin,275000.0,West Ham United
+Issa Diop,30800000.0,West Ham United
+Fabián Balbuena,10450000.0,West Ham United
+Angelo Ogbonna,7150000.0,West Ham United
+Gonçalo Cardoso,2530000.0,West Ham United
+Aaron Cresswell,7150000.0,West Ham United
+Arthur Masuaku,7150000.0,West Ham United
+Ryan Fredericks,4400000.0,West Ham United
+Pablo Zabaleta,880000.0,West Ham United
+Declan Rice,54450000.0,West Ham United
+Tomas Soucek,13200000.0,West Ham United
+Carlos Sánchez,1320000.0,West Ham United
+Mark Noble,5280000.0,West Ham United
+Jack Wilshere,5280000.0,West Ham United
+Josh Cullen,1320000.0,West Ham United
+Manuel Lanzini,17600000.0,West Ham United
+Pablo Fornals,17600000.0,West Ham United
+Felipe Anderson,35200000.0,West Ham United
+Jarrod Bowen,17600000.0,West Ham United
+Andriy Yarmolenko,10450000.0,West Ham United
+Michail Antonio,10450000.0,West Ham United
+Robert Snodgrass,5280000.0,West Ham United
+Grady Diangana,4950000.0,West Ham United
+Sébastien Haller,39600000.0,West Ham United
+Jordan Hugill,6050000.0,West Ham United
+Albian Ajeti,5280000.0,West Ham United
+Ben Foster,1320000.0,Watford FC
+Heurelho Gomes,440000.0,Watford FC
+Daniel Bachmann,440000.0,Watford FC
+Christian Kabasele,7150000.0,Watford FC
+Craig Dawson,5280000.0,Watford FC
+Craig Cathcart,4400000.0,Watford FC
+Ben Wilmot,1980000.0,Watford FC
+Adrian Mariappa,1760000.0,Watford FC
+Adam Masina,6050000.0,Watford FC
+José Holebas,1320000.0,Watford FC
+Kiko Femenía,5280000.0,Watford FC
+Daryl Janmaat,4400000.0,Watford FC
+Étienne Capoue,5720000.0,Watford FC
+Nathaniel Chalobah,5280000.0,Watford FC
+Abdoulaye Doucouré,22000000.0,Watford FC
+Will Hughes,15950000.0,Watford FC
+Tom Cleverley,5280000.0,Watford FC
+Domingos Quina,3520000.0,Watford FC
+Tom Dele-Bashiru,495000.0,Watford FC
+Roberto Pereyra,9900000.0,Watford FC
+Gerard Deulofeu,22000000.0,Watford FC
+Isaac Success,3520000.0,Watford FC
+Ismaïla Sarr,26950000.0,Watford FC
+Ignacio Pussetto,7150000.0,Watford FC
+João Pedro,19800000.0,Watford FC
+Andre Gray,10450000.0,Watford FC
+Troy Deeney,7150000.0,Watford FC
+Danny Welbeck,6050000.0,Watford FC
+Adalberto Peñaranda,1100000.0,Watford FC
+Vicente Guaita,4400000.0,Crystal Palace
+Wayne Hennessey,2640000.0,Crystal Palace
+Stephen Henderson,440000.0,Crystal Palace
+Mamadou Sakho,10450000.0,Crystal Palace
+James Tomkins,4400000.0,Crystal Palace
+Gary Cahill,4400000.0,Crystal Palace
+Jairo Riedewald,3520000.0,Crystal Palace
+Scott Dann,3080000.0,Crystal Palace
+Ryan Inniss,165000.0,Crystal Palace
+Patrick van Aanholt,10450000.0,Crystal Palace
+Joel Ward,3520000.0,Crystal Palace
+Martin Kelly,3080000.0,Crystal Palace
+Luka Milivojevic,22000000.0,Crystal Palace
+Cheikhou Kouyaté,8800000.0,Crystal Palace
+James McArthur,5280000.0,Crystal Palace
+James McCarthy,3080000.0,Crystal Palace
+Jeffrey Schlupp,10450000.0,Crystal Palace
+Scott Banks,275000.0,Crystal Palace
+Max Meyer,8800000.0,Crystal Palace
+Wilfried Zaha,48400000.0,Crystal Palace
+Andros Townsend,13200000.0,Crystal Palace
+Christian Benteke,11550000.0,Crystal Palace
+Jordan Ayew,7150000.0,Crystal Palace
+Connor Wickham,1320000.0,Crystal Palace
