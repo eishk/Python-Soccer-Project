@@ -9,26 +9,26 @@ percents['lecture homework'] = 0.08
 percents['lab section'] = 0.1
 percents['tutorial section'] = 0.08
 
-print
+print()
 print('This program calculates the final course grade for PHYS 123')
-print
+print()
 
 # get values for each grade category
 final_score = {}
 for cat in percents:
     try:
-        val = input('Input score for {}: '.format(cat))
+        val = eval(input('Input score for {}: '.format(cat)))
         final_score[cat] = val
     except:
         print('Something went wrong. Scores should be inputted as xx.x%. Please try again')
         break
-print
+print()
 for cat in final_score:
     try:
         print('{0:27} {1:10f}'.format(cat, final_score[cat]))
     except:
         print('{0:27} less than 1%'.format(cat))
-print
+print()
 
 # calculate overall percent in class
 overall_percent = 0.0
@@ -38,11 +38,11 @@ for cat in percents:
 # get GPA breakdown
 if overall_percent < 57:
     print('Grade falls below a 2.0')
-    print
+    print()
     exit()
 if overall_percent >= 91:
     print('Congratulations! You got a 4.0!')
-    print
+    print()
     exit()
 
 # 1.7 percent increase for every 0.1 GPA increase
@@ -52,4 +52,4 @@ gpa = round((0.1/1.7)*overall_percent - 1.353, 2)
 print("Here's what we've calculated:")
 print('Final Percentage: {}'.format(overall_percent))
 print('Final GPA: {}'.format(gpa))
-print
+print()
