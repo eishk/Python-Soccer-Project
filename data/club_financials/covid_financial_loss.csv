@@ -1,3 +1,15 @@
-﻿Type,Turnover,Wages,Profit before tax,Match income,TV and broadcasting,Retail,Commercial,Property development,Player trading,Net debt,Interest payable,Highest paid director,Events,Other
-Percent,0.72,0.7,,0.76,0.765,,0.816,0,,1,1,0.7,,1
-Flat,,,35,,,,,,,,,,,
+﻿Type,Percent,Flat
+Turnover,0.72,
+Wages,0.7,
+Profit before tax,,35
+Match income,0.76,
+TV and broadcasting,0.765,
+Retail,,
+Commercial,0.816,
+Property development,0,
+Player trading,,
+Net debt,1,
+Interest payable,1,
+Highest paid director,0.7,
+Events,0,
+Other,1,
