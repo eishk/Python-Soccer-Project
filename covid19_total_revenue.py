@@ -55,14 +55,14 @@ def covid_effects(data_20):
     losses_df = import_data('covid_financial_loss.csv')
 
     # multiply percent losses to predicted 2020 data
-    percent_mask = losses_df['Type'] == 'Percent'
-    field_names = [val for val in losses_df.columns if val != 'Type']
+    field_names = losses_df['Type'].tolist()
     covid_df = data_20.loc[:, field_names].multiply(
-        losses_df[percent_mask].loc[:, field_names], fill_value=1)
+        losses_df['Percent'].tolist()
+    )
     
     # subtract flat losses from profit
     covid_df['Profit before tax'] = data_20['Profit before tax'] - \
-        losses_df.at[1, 'Profit before tax']
+        losses_df.at[2, 'Flat']
     
     # add clubs column
     covid_df.insert(0, 'Club', data_20['Club'])
@@ -74,8 +74,6 @@ def covid_effects(data_20):
     ax.figure.savefig('predicted_covid_financials_2020.png')
 
     return covid_df
-
-    
 
 
 def get_total_revenue():
@@ -95,3 +93,4 @@ def get_total_revenue():
     predicted_covid = covid_effects(predicted_20)
 
     return predicted_covid
+get_total_revenue()
