@@ -1,0 +1,353 @@
+Name,Position,Market Value,Actual Fee,New Team,Old Team
+Álvaro Morata,CF,44000000.0,72600000.0,Chelsea FC,Real Madrid
+Tiemoué Bakayoko,DM,17600000.0,44000000.0,Chelsea FC,Monaco
+Danny Drinkwater,CM,9900000.0,41690000.0,Chelsea FC,Leicester
+Antonio Rüdiger,CB,27500000.0,38500000.0,Chelsea FC,AS Roma
+Davide Zappacosta,RB,9350000.0,27500000.0,Chelsea FC,Torino
+Emerson,LB,15400000.0,22000000.0,Chelsea FC,AS Roma
+Olivier Giroud,CF,22000000.0,18700000.0,Chelsea FC,Arsenal
+Ross Barkley,CM,27500000.0,18480000.0,Chelsea FC,Everton
+Ethan Ampadu,CB,0,3080000.0,Chelsea FC,Exeter U18
+Willy Caballero,GK,1650000.0,0,Chelsea FC,Man City
+Fikayo Tomori,CB,275000.0,0,Chelsea FC,Chelsea U23
+Tammy Abraham,CF,8800000.0,0,Chelsea FC,Chelsea U23
+Charly Musonda Jr.,AM,5500000.0,0,Chelsea FC,Chelsea U23
+Diego Costa,CF,55000000.0,72600000.0,Atlético Madrid,Chelsea FC
+Nemanja Matic,DM,38500000.0,49170000.0,Man Utd,Chelsea FC
+Nathan Aké,CB,8800000.0,25080000.0,Bournemouth,Chelsea FC
+Juan Cuadrado,RW,27500000.0,22000000.0,Juventus,Chelsea FC
+Asmir Begovic,GK,8800000.0,12650000.0,Bournemouth,Chelsea FC
+Bertrand Traoré,RW,8800000.0,11000000.0,Olympique Lyon,Chelsea FC
+Christian Atsu,LW,5500000.0,8250000.0,Newcastle,Chelsea FC
+Nathaniel Chalobah,DM,5500000.0,6930000.0,Watford,Chelsea FC
+John Terry,CB,1100000.0,0,Aston Villa,Chelsea FC
+Cristian Cuevas,LB,990000.0,0,Huachipato FC,Chelsea FC
+Loïc Rémy,CF,9900000.0,0,UD Las Palmas,Chelsea FC
+Davinson Sánchez,CB,27500000.0,44000000.0,Tottenham Hotspur,Ajax
+Lucas Moura,RW,30800000.0,31240000.0,Tottenham Hotspur,Paris SG
+Serge Aurier,RB,16500000.0,27500000.0,Tottenham Hotspur,Paris SG
+Fernando Llorente,CF,6600000.0,16610000.0,Tottenham Hotspur,Swansea
+Juan Foyth,CB,0,14300000.0,Tottenham Hotspur,Estudiantes
+Paulo Gazzaniga,GK,1100000.0,0,Tottenham Hotspur,Southampton
+Kyle Walker-Peters,RB,275000.0,0,Tottenham Hotspur,Tottenham U23
+Kyle Walker,RB,33000000.0,57970000.0,Man City,Tottenham Hotspur
+Kevin Wimmer,CB,7700000.0,21340000.0,Stoke City,Tottenham Hotspur
+Nabil Bentaleb,CM,19800000.0,20900000.0,FC Schalke 04,Tottenham Hotspur
+Clinton N'Jie,CF,7700000.0,7700000.0,Marseille,Tottenham Hotspur
+Federico Fazio,CB,9900000.0,3520000.0,AS Roma,Tottenham Hotspur
+Aymeric Laporte,CB,27500000.0,71500000.0,Manchester City,Athletic
+Benjamin Mendy,LB,14300000.0,63250000.0,Manchester City,Monaco
+Kyle Walker,RB,33000000.0,57970000.0,Manchester City,Spurs
+Bernardo Silva,RW,44000000.0,55000000.0,Manchester City,Monaco
+Ederson,GK,24200000.0,44000000.0,Manchester City,Benfica
+Danilo,RB,17600000.0,33000000.0,Manchester City,Real Madrid
+Douglas Luiz,CM,0,13200000.0,Manchester City,Vasco da Gama
+Jack Harrison,LW,1930000.0,4400000.0,Manchester City,NYCFC
+Olarenwaju Kayode,CF,4400000.0,4179999.9999999995,Manchester City,Austria Vienna
+Luka Ilic,AM,0,2750000.0,Manchester City,Red Star
+Phil Foden,CM,0,0,Manchester City,Man City U18
+Brahim Díaz,AM,0,0,Manchester City,Man City U23
+Tosin Adarabioyo,CB,275000.0,0,Manchester City,Man City U23
+Kelechi Iheanacho,CF,16500000.0,30470000.0,Leicester,Manchester City
+Enes Ünal,CF,11000000.0,15400000.0,Villarreal,Manchester City
+Wilfried Bony,CF,19800000.0,14300000.0,Swansea,Manchester City
+Aaron Mooy,CM,5500000.0,10010000.0,Huddersfield,Manchester City
+Nolito,LW,13200000.0,7700000.0,Sevilla FC,Manchester City
+Fernando,DM,11000000.0,6600000.0,Galatasaray,Manchester City
+Aleksandar Kolarov,LB,11000000.0,5500000.0,AS Roma,Manchester City
+Samir Nasri,AM,17600000.0,3850000.0,Antalyaspor,Manchester City
+Rubén Sobrino,CF,550000.0,2200000.0,Alavés,Manchester City
+Bruno Zuculini,DM,1320000.0,1380000.0,Hellas Verona,Manchester City
+Jesús Navas,RB,13200000.0,0,Sevilla FC,Manchester City
+Pablo Zabaleta,RB,7700000.0,0,West Ham,Manchester City
+Willy Caballero,GK,1650000.0,0,Chelsea,Manchester City
+Gaël Clichy,LB,7700000.0,0,Basaksehir,Manchester City
+Bacary Sagna,RB,4400000.0,0,Without Club,Manchester City
+Virgil van Dijk,CB,33000000.0,93120000.0,Liverpool FC,Southampton
+Mohamed Salah,RW,38500000.0,46200000.0,Liverpool FC,AS Roma
+Alex Oxlade-Chamberlain,CM,24200000.0,41800000.0,Liverpool FC,Arsenal
+Andrew Robertson,LB,7700000.0,9900000.0,Liverpool FC,Hull City
+Tony Gallacher,LB,248000.0,251000.0,Liverpool FC,Falkirk FC
+Dominic Solanke,CF,2200000.0,0,Liverpool FC,Chelsea U23
+Philippe Coutinho,AM,99000000.0,159500000.0,FC Barcelona,Liverpool FC
+Mamadou Sakho,CB,16500000.0,31020000.0,Crystal Palace,Liverpool FC
+Lucas Leiva,DM,7700000.0,6270000.0,Lazio,Liverpool FC
+Kevin Stewart,DM,1100000.0,4950000.0,Hull City,Liverpool FC
+Andre Wisdom,RB,3030000.0,2530000.0,Derby,Liverpool FC
+Alexander Manninger,GK,220000.0,0,Retired,Liverpool FC
+Pierre-Emerick Aubameyang,CF,71500000.0,70130000.0,Arsenal FC,Bor. Dortmund
+Alexandre Lacazette,CF,44000000.0,58300000.0,Arsenal FC,Olympique Lyon
+Henrikh Mkhitaryan,AM,38500000.0,37400000.0,Arsenal FC,Man Utd
+Konstantinos Mavropanos,CB,495000.0,2310000.0,Arsenal FC,PAS Giannina
+Sead Kolasinac,LB,16500000.0,0,Arsenal FC,FC Schalke 04
+Ainsley Maitland-Niles,RB,825000.0,0,Arsenal FC,Arsenal U23
+Alex Oxlade-Chamberlain,CM,24200000.0,41800000.0,Liverpool,Arsenal FC
+Alexis Sánchez,LW,77000000.0,37400000.0,Man Utd,Arsenal FC
+Theo Walcott,RW,22000000.0,24750000.0,Everton,Arsenal FC
+Olivier Giroud,CF,22000000.0,18700000.0,Chelsea,Arsenal FC
+Francis Coquelin,DM,13200000.0,15400000.0,Valencia,Arsenal FC
+Wojciech Szczesny,GK,18700000.0,15400000.0,Juventus,Arsenal FC
+Gabriel Paulista,CB,14300000.0,12100000.0,Valencia,Arsenal FC
+Kieran Gibbs,LB,11000000.0,8250000.0,West Brom,Arsenal FC
+Yaya Sanogo,CF,1100000.0,0,Toulouse,Arsenal FC
+Mathieu Debuchy,RB,2750000.0,0,Saint-Étienne,Arsenal FC
+Romelu Lukaku,CF,55000000.0,93170000.0,Manchester United,Everton
+Nemanja Matic,DM,38500000.0,49170000.0,Manchester United,Chelsea
+Victor Lindelöf,CB,24200000.0,38500000.0,Manchester United,Benfica
+Alexis Sánchez,LW,77000000.0,37400000.0,Manchester United,Arsenal
+Joel Pereira,GK,110000.0,0,Manchester United,Man Utd U23
+Scott McTominay,CM,0,0,Manchester United,Man Utd U23
+Henrikh Mkhitaryan,AM,38500000.0,37400000.0,Arsenal,Manchester United
+Adnan Januzaj,RW,7700000.0,9350000.0,Real Sociedad,Manchester United
+Wayne Rooney,AM,16500000.0,0,Everton,Manchester United
+Zlatan Ibrahimovic,CF,7700000.0,0,LA Galaxy,Manchester United
+Guillermo Varela,RB,825000.0,0,Peñarol,Manchester United
+Gylfi Sigurdsson,AM,27500000.0,54340000.0,Everton FC,Swansea
+Michael Keane,CB,19800000.0,31350000.0,Everton FC,Burnley
+Jordan Pickford,GK,16500000.0,31350000.0,Everton FC,Sunderland
+Davy Klaassen,CM,19800000.0,29700000.0,Everton FC,Ajax
+Cenk Tosun,CF,11550000.0,24750000.0,Everton FC,Besiktas
+Theo Walcott,RW,22000000.0,24750000.0,Everton FC,Arsenal
+Nikola Vlasic,AM,4400000.0,11880000.0,Everton FC,Hajduk Split
+Henry Onyekuru,LW,7700000.0,8800000.0,Everton FC,KAS Eupen
+Sandro Ramírez,CF,11000000.0,6600000.0,Everton FC,Málaga CF
+Cuco Martina,RB,2200000.0,0,Everton FC,Southampton
+Wayne Rooney,AM,16500000.0,0,Everton FC,Man Utd
+Beni Baningime,CM,0,0,Everton FC,Everton U23
+Kieran Dowell,AM,275000.0,0,Everton FC,Everton U23
+Jonjoe Kenny,RB,275000.0,0,Everton FC,Everton U23
+Romelu Lukaku,CF,55000000.0,93170000.0,Man Utd,Everton FC
+Ross Barkley,CM,27500000.0,18480000.0,Chelsea,Everton FC
+Gerard Deulofeu,LW,13200000.0,13200000.0,FC Barcelona,Everton FC
+Tom Cleverley,CM,8800000.0,10230000.0,Watford,Everton FC
+Aaron Lennon,RW,5500000.0,1870000.0,Burnley,Everton FC
+Gareth Barry,DM,1650000.0,1210000.0,West Brom,Everton FC
+Aiden McGeady,LW,3850000.0,308000.0,Sunderland,Everton FC
+Arouna Koné,CF,1650000.0,0,Sivasspor,Everton FC
+Leandro Rodríguez,CF,1100000.0,0,Danubio FC,Everton FC
+Conor McAleny,CF,550000.0,0,Fleetwood,Everton FC
+Guido Carrillo,CF,6600000.0,24200000.0,Southampton FC,Monaco
+Mario Lemina,DM,8250000.0,18980000.0,Southampton FC,Juventus
+Wesley Hoedt,CB,8250000.0,17600000.0,Southampton FC,Lazio
+Jan Bednarek,CB,550000.0,6600000.0,Southampton FC,Lech Poznan
+Jack Rose,GK,110000.0,0,Southampton FC,West Brom U23
+Jake Hesketh,AM,0,0,Southampton FC,Southampton U23
+Virgil van Dijk,CB,33000000.0,93120000.0,Liverpool,Southampton FC
+Jay Rodríguez,CF,11000000.0,15070000.0,West Brom,Southampton FC
+Lloyd Isgrove,LW,275000.0,0,Barnsley FC,Southampton FC
+Cuco Martina,RB,2200000.0,0,Everton,Southampton FC
+Martín Cáceres,CB,4400000.0,0,Hellas Verona,Southampton FC
+Paulo Gazzaniga,GK,1100000.0,0,Spurs,Southampton FC
+Nathan Aké,CB,8800000.0,25080000.0,AFC Bournemouth,Chelsea
+Asmir Begovic,GK,8800000.0,12650000.0,AFC Bournemouth,Chelsea
+Jermain Defoe,CF,5500000.0,0,AFC Bournemouth,Sunderland
+Connor Mahoney,RW,110000.0,0,AFC Bournemouth,Blackburn
+Jack Simpson,CB,0,0,AFC Bournemouth,Bournemouth U21
+Marc Wilson,CB,2750000.0,0,Sunderland,AFC Bournemouth
+Jordan Green,RW,0,0,Yeovil Town,AFC Bournemouth
+Harry Cornick,RW,110000.0,0,Luton,AFC Bournemouth
+Oliver Burke,RW,7700000.0,16719999.999999998,West Bromwich Albion,RB Leipzig
+Jay Rodríguez,CF,11000000.0,15070000.0,West Bromwich Albion,Southampton
+Kieran Gibbs,LB,11000000.0,8250000.0,West Bromwich Albion,Arsenal
+Yuning Zhang,CF,770000.0,7920000.0,West Bromwich Albion,Vitesse
+Ahmed Hegazy,CB,3300000.0,5500000.0,West Bromwich Albion,El Ahly
+Gareth Barry,DM,1650000.0,1210000.0,West Bromwich Albion,Everton
+Kyle Edwards,LM,0,0,West Bromwich Albion,West Brom U23
+Alex Palmer,GK,0,0,West Bromwich Albion,West Brom U23
+Craig Gardner,CM,3850000.0,1930000.0,Birmingham,West Bromwich Albion
+Callum McManaman,RW,3850000.0,0,Sunderland,West Bromwich Albion
+Sébastien Pocognoli,LB,825000.0,0,Standard Liège,West Bromwich Albion
+Darren Fletcher,CM,2200000.0,0,Stoke City,West Bromwich Albion
+Marko Arnautovic,CF,16500000.0,24530000.0,West Ham United,Stoke City
+Chicharito,CF,19800000.0,19580000.0,West Ham United,Bay. Leverkusen
+Jordan Hugill,CF,3300000.0,11220000.0,West Ham United,Preston NE
+Sead Haksabanovic,LM,440000.0,3300000.0,West Ham United,Halmstad
+Pablo Zabaleta,RB,7700000.0,0,West Ham United,Man City
+Oladapo Afolayan,CF,0,0,West Ham United,Solihull Moors
+Declan Rice,DM,0,0,West Ham United,West Ham U23
+Patrice Evra,LB,1100000.0,0,West Ham United,Without Club
+Domingos Quina,CM,0,0,West Ham United,West Ham U23
+André Ayew,LW,19800000.0,25080000.0,Swansea,West Ham United
+Diafra Sakho,CF,8800000.0,11000000.0,Stade Rennais,West Ham United
+Havard Nordtveit,CB,5500000.0,8800000.0,TSG Hoffenheim,West Ham United
+Ashley Fletcher,CF,1100000.0,8029999.999999999,Middlesbrough,West Ham United
+Darren Randolph,GK,2750000.0,6160000.0,Middlesbrough,West Ham United
+José Fonte,CB,5500000.0,6130000.0,DL Yifang,West Ham United
+Enner Valencia,CF,11000000.0,6050000.0,Tigres UANL,West Ham United
+Sofiane Feghouli,RW,13200000.0,4680000.0,Galatasaray,West Ham United
+Raphael Spiegel,GK,550000.0,0,Boavista,West Ham United
+Stephen Hendrie,LB,825000.0,0,Southend United,West Ham United
+Doneil Henry,CB,440000.0,0,Without Club,West Ham United
+Álvaro Arbeloa,RB,1650000.0,0,Retired,West Ham United
+Jaanai Gordon,CF,0,0,Without Club,West Ham United
+Sam Westley,RB,55000.0,0,Retired,West Ham United
+Kelechi Iheanacho,CF,16500000.0,30470000.0,Leicester City,Man City
+Adrien Silva,CM,27500000.0,27500000.0,Leicester City,Sporting CP
+Vicente Iborra,CM,9900000.0,16500000.0,Leicester City,Sevilla FC
+Harry Maguire,CB,8800000.0,15070000.0,Leicester City,Hull City
+Eldin Jakupovic,GK,1100000.0,2530000.0,Leicester City,Hull City
+Fousseni Diabaté,RW,0,2200000.0,Leicester City,G. Ajaccio
+George Thomas,AM,275000.0,0,Leicester City,Coventry
+Harvey Barnes,LM,110000.0,0,Leicester City,Leicester U23
+Hamza Choudhury,DM,275000.0,0,Leicester City,Leicester U23
+Danny Drinkwater,CM,9900000.0,41690000.0,Chelsea,Leicester City
+Tom Lawrence,LW,2750000.0,6050000.0,Derby,Leicester City
+Ron-Robert Zieler,GK,7700000.0,4400000.0,VfB Stuttgart,Leicester City
+Marcin Wasilewski,CB,55000.0,0,Without Club,Leicester City
+Michael Cain,CM,110000.0,0,Without Club,Leicester City
+Kevin Wimmer,CB,7700000.0,21340000.0,Stoke City,Spurs
+Badou Ndiaye,CM,7700000.0,17600000.0,Stoke City,Galatasaray
+Bruno Martins Indi,CB,12100000.0,8470000.0,Stoke City,FC Porto
+Moritz Bauer,RB,3300000.0,6820000.0,Stoke City,Rubin Kazan
+Darren Fletcher,CM,2200000.0,0,Stoke City,West Brom
+Eric Maxim Choupo-Moting,CF,6600000.0,0,Stoke City,FC Schalke 04
+Josh Tymon,LB,1100000.0,0,Stoke City,Hull City
+Tom Edwards,RB,0,0,Stoke City,Stoke U23
+Marko Arnautovic,CF,16500000.0,24530000.0,West Ham,Stoke City
+Joselu,CF,3850000.0,6050000.0,Newcastle,Stoke City
+Philipp Wollscheid,CB,2750000.0,2750000.0,FC Metz,Stoke City
+Jonathan Walters,RW,2750000.0,2530000.0,Burnley,Stoke City
+Glenn Whelan,DM,2750000.0,1870000.0,Aston Villa,Stoke City
+Phil Bardsley,RB,1650000.0,924000.0,Burnley,Stoke City
+George Waring,CF,275000.0,0,Tranmere Rovers,Stoke City
+Daniel Bachmann,GK,275000.0,0,Watford,Stoke City
+Shay Given,GK,275000.0,0,Retired,Stoke City
+Mamadou Sakho,CB,16500000.0,31020000.0,Crystal Palace,Liverpool
+Alexander Sörloth,CF,2200000.0,9900000.0,Crystal Palace,FC Midtjylland
+Jairo Riedewald,CB,5500000.0,9900000.0,Crystal Palace,Ajax
+Jaroslaw Jach,CB,2200000.0,3030000.0,Crystal Palace,Zaglebie Lubin
+Diego Cavalieri,GK,1930000.0,0,Crystal Palace,Without Club
+Aaron Wan-Bissaka,RB,0,0,Crystal Palace,Palace U23
+Steve Mandanda,GK,8800000.0,3300000.0,Marseille,Crystal Palace
+Kwesi Appiah,CF,275000.0,0,AFC Wimbledon,Crystal Palace
+Zeki Fryers,LB,1650000.0,0,Barnsley FC,Crystal Palace
+Hiram Boateng,DM,550000.0,0,Exeter City,Crystal Palace
+Fraizer Campbell,CF,2200000.0,0,Hull City,Crystal Palace
+Luke Croll,CB,0,0,Exeter City,Crystal Palace
+Freddie Ladapo,CF,275000.0,0,Southend United,Crystal Palace
+Keshi Anderson,LW,110000.0,0,Swindon Town,Crystal Palace
+Jonathan Benteke,CF,440000.0,0,Without Club,Crystal Palace
+Kleton Perntreou,GK,0,0,Without Club,Crystal Palace
+Mathieu Flamini,DM,2200000.0,0,Without Club,Crystal Palace
+Joe Ledley,CM,3850000.0,0,Without Club,Crystal Palace
+André Ayew,LW,19800000.0,25080000.0,Swansea City,West Ham
+Sam Clucas,CM,2750000.0,17930000.0,Swansea City,Hull City
+Wilfried Bony,CF,19800000.0,14300000.0,Swansea City,Man City
+Roque Mesa,CM,13200000.0,13750000.0,Swansea City,UD Las Palmas
+Cian Harries,CB,83000.0,314000.0,Swansea City,Coventry
+Erwin Mulder,GK,2750000.0,0,Swansea City,Heerenveen
+Courtney Baker-Richardson,CF,0,0,Swansea City,Leamington
+Jack Withers,CB,0,0,Swansea City,Boston United
+Connor Roberts,RB,275000.0,0,Swansea City,Swansea U23
+Gylfi Sigurdsson,AM,27500000.0,54340000.0,Everton,Swansea City
+Fernando Llorente,CF,6600000.0,16610000.0,Spurs,Swansea City
+Jack Cork,DM,5500000.0,10010000.0,Burnley,Swansea City
+Stephen Kingsley,LB,825000.0,3630000.0,Hull City,Swansea City
+Bafétimbi Gomis,CF,5500000.0,2750000.0,Galatasaray,Swansea City
+Modou Barrow,LW,3300000.0,1870000.0,Reading,Swansea City
+Mark Birighitti,GK,1100000.0,0,NAC Breda,Swansea City
+Franck Tabanou,LB,2200000.0,0,Guingamp,Swansea City
+Marvin Emnes,CF,1100000.0,0,Akhisarspor,Swansea City
+Liam Shephard,RB,83000.0,0,Peterborough,Swansea City
+Gerhard Tremmel,GK,275000.0,0,Retired,Swansea City
+Chris Wood,CF,6600000.0,18040000.0,Burnley FC,Leeds
+Jack Cork,DM,5500000.0,10010000.0,Burnley FC,Swansea
+Nahki Wells,CF,5500000.0,5940000.0,Burnley FC,Huddersfield
+Jonathan Walters,RW,2750000.0,2530000.0,Burnley FC,Stoke City
+Aaron Lennon,RW,5500000.0,1870000.0,Burnley FC,Everton
+Phil Bardsley,RB,1650000.0,924000.0,Burnley FC,Stoke City
+Charlie Taylor,LB,5500000.0,0,Burnley FC,Leeds
+Adam Legzdins,GK,275000.0,0,Burnley FC,Birmingham
+Anders Lindegaard,GK,1100000.0,0,Burnley FC,Without Club
+Michael Keane,CB,19800000.0,31350000.0,Everton,Burnley FC
+Andre Gray,CF,11000000.0,22440000.0,Watford,Burnley FC
+Tendayi Darikwa,RB,550000.0,1210000.0,Nottm Forest,Burnley FC
+Rouwen Hennings,CF,1650000.0,0,F. Düsseldorf,Burnley FC
+Fredrik Ulvestad,CM,825000.0,0,Djurgarden,Burnley FC
+Harry Flowers,CB,0,0,Guiseley,Burnley FC
+George Boyd,LW,4400000.0,0,Sheff Wed,Burnley FC
+Michael Kightly,LW,1100000.0,0,Southend United,Burnley FC
+George Green,AM,165000.0,0,Viking FK,Burnley FC
+Luke Hendrie,RB,275000.0,0,Shrewsbury,Burnley FC
+Joey Barton,CM,1100000.0,0,Without Club,Burnley FC
+Paul Robinson,GK,275000.0,0,Retired,Burnley FC
+Andre Gray,CF,11000000.0,22440000.0,Watford FC,Burnley
+Richarlison,CF,2200000.0,13640000.0,Watford FC,Fluminense
+Tom Cleverley,CM,8800000.0,10230000.0,Watford FC,Everton
+Will Hughes,CM,8800000.0,10010000.0,Watford FC,Derby
+Nathaniel Chalobah,DM,5500000.0,6930000.0,Watford FC,Chelsea
+Dodi Lukebakio,RW,3300000.0,5500000.0,Watford FC,RSC Charleroi
+Pontus Dahlberg,GK,880000.0,4290000.0,Watford FC,IFK Göteborg
+Marvin Zeegelaar,LB,3850000.0,3300000.0,Watford FC,Sporting CP
+Daniel Bachmann,GK,275000.0,0,Watford FC,Stoke City
+Kiko Femenía,RB,4400000.0,0,Watford FC,Alavés
+Dimitri Foulquier,RB,2200000.0,0,Watford FC,Granada CF
+Steven Berghuis,RW,6050000.0,7150000.0,Feyenoord,Watford FC
+Sven Kums,DM,5500000.0,7150000.0,RSC Anderlecht,Watford FC
+Uche Agbo,DM,3300000.0,2750000.0,Standard Liège,Watford FC
+Valon Behrami,DM,2750000.0,2200000.0,Udinese Calcio,Watford FC
+Juanfran,RB,5500000.0,1100000.0,Dep. La Coruña,Watford FC
+Ben Watson,CM,1100000.0,0,Nottm Forest,Watford FC
+Rene Gilmartin,GK,275000.0,0,Colchester Utd.,Watford FC
+Giedrius Arlauskis,GK,1100000.0,0,CFR Cluj,Watford FC
+Mathias Ranégie,CF,440000.0,0,Häcken,Watford FC
+Mario Suárez,DM,6600000.0,0,GZ Hengfeng,Watford FC
+Juan Carlos Paredes,RB,1930000.0,0,CS Emelec,Watford FC
+Jacob Murphy,RW,1100000.0,12430000.0,Newcastle United,Norwich
+Florian Lejeune,CB,5500000.0,11000000.0,Newcastle United,SD Eibar
+Christian Atsu,LW,5500000.0,8250000.0,Newcastle United,Chelsea
+Joselu,CF,3850000.0,6050000.0,Newcastle United,Stoke City
+Javier Manquillo,RB,4400000.0,5500000.0,Newcastle United,Atlético Madrid
+Florian Thauvin,RW,19800000.0,12100000.0,Marseille,Newcastle United
+Grant Hanley,CB,4950000.0,4179999.9999999995,Norwich,Newcastle United
+Siem de Jong,AM,6050000.0,2530000.0,Ajax,Newcastle United
+Daryl Murphy,CF,1650000.0,2530000.0,Nottm Forest,Newcastle United
+Emmanuel Rivière,CF,1650000.0,1210000.0,FC Metz,Newcastle United
+Kevin Mbabu,RB,825000.0,132000.0,BSC Young Boys,Newcastle United
+Yoan Gouffran,LW,3850000.0,0,Göztepe,Newcastle United
+Sammy Ameobi,LW,2750000.0,0,Bolton,Newcastle United
+Lubomir Satka,CB,275000.0,0,Dunajska Streda,Newcastle United
+Tim Krul,GK,4400000.0,0,Brighton,Newcastle United
+Vurnon Anita,DM,4400000.0,0,Leeds,Newcastle United
+Haris Vuckic,AM,550000.0,0,Twente FC,Newcastle United
+Jürgen Locadia,CF,9350000.0,18700000.0,Brighton & Hove Albion,PSV Eindhoven
+José Izquierdo,LW,15400000.0,16500000.0,Brighton & Hove Albion,Club Brugge
+Davy Pröpper,CM,11000000.0,14300000.0,Brighton & Hove Albion,PSV Eindhoven
+Mathew Ryan,GK,3850000.0,6600000.0,Brighton & Hove Albion,Valencia
+Markus Suttner,LB,2200000.0,4950000.0,Brighton & Hove Albion,FC Ingolstadt
+Ezequiel Schelotto,RB,4950000.0,3300000.0,Brighton & Hove Albion,Sporting CP
+Pascal Groß,CM,4400000.0,3300000.0,Brighton & Hove Albion,FC Ingolstadt
+Ales Mateju,LB,1380000.0,2750000.0,Brighton & Hove Albion,Viktoria Plzen
+Mathias Normann,CM,440000.0,1540000.0,Brighton & Hove Albion,Bodø/Glimt
+Viktor Gyökeres,CF,550000.0,1100000.0,Brighton & Hove Albion,Brommapojkarna
+Soufyan Ahannach,LM,330000.0,660000.0,Brighton & Hove Albion,Almere City
+Tim Krul,GK,4400000.0,0,Brighton & Hove Albion,Newcastle
+Kazenga LuaLua,LW,1100000.0,0,Sunderland,Brighton & Hove Albion
+David Stockdale,GK,2200000.0,0,Birmingham,Brighton & Hove Albion
+Elvis Manu,LW,1100000.0,0,Genclerbirligi,Brighton & Hove Albion
+Vegard Forren,CB,1380000.0,0,Molde FK,Brighton & Hove Albion
+Chris O'Grady,CF,385000.0,0,Chesterfield FC,Brighton & Hove Albion
+Joe Ward,RW,0,0,Woking FC,Brighton & Hove Albion
+Rob Hunt,RB,110000.0,0,Oldham Athletic,Brighton & Hove Albion
+Casper Ankergren,GK,165000.0,0,Retired,Brighton & Hove Albion
+Steve Mounié,CF,6050000.0,14300000.0,Huddersfield Town,Montpellier
+Alex Pritchard,AM,5500000.0,13590000.0,Huddersfield Town,Norwich
+Aaron Mooy,CM,5500000.0,10010000.0,Huddersfield Town,Man City
+Tom Ince,RW,7700000.0,10010000.0,Huddersfield Town,Derby
+Scott Malone,LB,825000.0,4290000.0,Huddersfield Town,Fulham
+Laurent Depoitre,CF,3300000.0,4179999.9999999995,Huddersfield Town,FC Porto
+Zanka,CB,2750000.0,2970000.0,Huddersfield Town,FC Copenhagen
+Abdelhamid Sabiri,AM,440000.0,1650000.0,Huddersfield Town,1.FC Nuremberg
+Elias Kachunga,RW,3850000.0,1430000.0,Huddersfield Town,FC Ingolstadt
+Danny Williams,DM,2200000.0,0,Huddersfield Town,Reading
+Rob Green,GK,550000.0,0,Huddersfield Town,Leeds
+Ryan Schofield,GK,0,0,Huddersfield Town,Huddersf. U18
+Nahki Wells,CF,5500000.0,5940000.0,Burnley,Huddersfield Town
+Joe Lolley,RW,550000.0,660000.0,Nottm Forest,Huddersfield Town
+Kyle Dempsey,CM,385000.0,501000.0,Fleetwood,Huddersfield Town
+Joe Murphy,GK,165000.0,0,Bury,Huddersfield Town
+Harry Bunn,LW,550000.0,0,Bury,Huddersfield Town
+Martin Cranie,CB,550000.0,0,Middlesbrough,Huddersfield Town
+Jason Davidson,LB,550000.0,0,HNK Rijeka,Huddersfield Town
+Mark Hudson,CB,550000.0,0,Retired,Huddersfield Town
+Flo Bojaj,CF,110000.0,0,Without Club,Huddersfield Town
