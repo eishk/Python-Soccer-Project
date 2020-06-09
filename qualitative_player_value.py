@@ -1,9 +1,9 @@
 '''
 Authors: Eish Kapoor, Kunal Bhandarkar
 Date: June 1, 2020
-Desc: this file answers the question: 
-What combination of qualitative variables best determines the market value of a player?
-Is it age, nationality, position, overall quality, or a mixture of multiple?
+Desc: this file answers the question:
+What combination of qualitative variables best determines the market value of a
+player?
 '''
 
 import pandas as pd
@@ -20,7 +20,7 @@ def import_csv(file_name):
     returns it
     '''
     data = pd.read_csv('data/kaggle_fifa_20/{}'.format(file_name))
-    
+
     # get the features that we want to analyze
     features = ['value_eur', 'player_traits']
     data = data[features].dropna()
@@ -28,7 +28,7 @@ def import_csv(file_name):
     # parse player_traits and create new feature columns
     player_traits = data['player_traits'].tolist()
     trait_features = list({
-        t for trait in player_traits 
+        t for trait in player_traits
         for t in trait.split(', ')
         if '(CPU AI Only)' not in t
     })
@@ -115,5 +115,5 @@ def get_qualitative_value():
 
     # plot model information
     plot_model(model_info)
-    
+
     return model_info
