@@ -6,7 +6,7 @@ What will the effect of COVID-19 be on the total revenue of the Premier League?
 '''
 
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 
 def import_data(file_name):
@@ -38,13 +38,15 @@ def extrapolate_2020_data(data_17, data_18):
 
     # save csv and make plot
     data_20.to_csv('predicted_financials_2020.csv')
-    tmp = pd.DataFrame({'Turnover': data_20['Turnover'], 'Wages': data_20['Wages'], 'Profit': data_20['Profit before tax']}, index=data_20['Club'])
-    ax = tmp.plot.bar(rot=0)
-    ax.figure.savefig('predicted_financials_2020.png')
+    cols = ['Turnover', 'Wages', 'Profit before tax']
+    data_20.plot(x='Club', y=cols, kind='bar')
+    plt.title('Predicted Club Financials for 2020 (no COVID-19)')
+    plt.ylabel('Amount in Euros')
+    plt.savefig('predicted_financials_2020.png', bbox_inches='tight')
 
     return data_20
 
-    
+
 def covid_effects(data_20):
     '''
     covid_effects takes the predicted 2020 data and returns the data adjusted for the average
@@ -69,9 +71,11 @@ def covid_effects(data_20):
 
     # write csv and plot
     covid_df.to_csv('predicted_covid_financials_2020.csv')
-    tmp = pd.DataFrame({'Turnover': covid_df['Turnover'], 'Wages': covid_df['Wages'], 'Profit': covid_df['Profit before tax']}, index=covid_df['Club'])
-    ax = tmp.plot.bar(rot=0)
-    ax.figure.savefig('predicted_covid_financials_2020.png')
+    cols = ['Turnover', 'Wages', 'Profit before tax']
+    covid_df.plot(x='Club', y=cols, kind='bar')
+    plt.title('Predicted Club Financials for 2020 (with COVID-19)')
+    plt.ylabel('Amount in Euros')
+    plt.savefig('predicted_covid_financials_2020.png', bbox_inches='tight')
 
     return covid_df
 
@@ -93,4 +97,3 @@ def get_total_revenue():
     predicted_covid = covid_effects(predicted_20)
 
     return predicted_covid
-get_total_revenue()
