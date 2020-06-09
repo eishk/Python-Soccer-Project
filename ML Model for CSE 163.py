@@ -16,7 +16,7 @@ from sklearn.model_selection import train_test_split
 
 
 def main():
-    data = pd.read_csv("players_20.csv")
+    data = pd.read_csv("data/kaggle_fifa_20/players_20.csv")
     data = shuffle(data)
     data.reset_index(inplace=True, drop=True)
     ml_models(data)
