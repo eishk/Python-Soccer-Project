@@ -7,7 +7,7 @@ This file contains the code that uses the BeautifulSoup library
 to scrape the TransferMarkt database for the transfers that occurred
 in the British Premier League. Includes transfers in and out, and scrapes
 the player's name, position, market value, actual fee paid, new team, and
-old team. 
+old team.
 """
 
 import csv
