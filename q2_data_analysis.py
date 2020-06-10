@@ -250,7 +250,7 @@ def test_dataset(dataset_2017, dataset_2020):
     mean_ovr_2020 = dataset_2020['overall'].mean()
     mean_fee_2020 = dataset_2020['Actual Fee'].mean()
     correct_mean_ovr_2020 = 72.75
-    correct_mean_fee_2020 =  24681250
+    correct_mean_fee_2020 = 24681250
     if not isclose(mean_ovr_2020, correct_mean_ovr_2020):
         raise Exception('2020 Dataset mean overall is wrong.'
                         'Did not pass tests.')
