@@ -5,3 +5,4 @@
 
 rm -rf ./*.pyc
 echo ... removed all .pyc files
+
