@@ -1,5 +1,5 @@
 """
-Eish Kapoor
+Eish Kapoor & Kunal Bhandarkar
 CSE 163 AD
 Final Project
 
@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-def main():
+def scrape_values_data():
     """
     In this main function, we pass a list of urls that the methods take and
     scrape, returning what the information we need. For each season, we just
@@ -116,7 +116,3 @@ def scraping_function(list_of_urls):
             writer.writerow([name, value, team_name])
         time.sleep(5)
     file.close()
-
-
-if __name__ == '__main__':
-    main()
