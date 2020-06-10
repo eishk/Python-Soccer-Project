@@ -1,5 +1,5 @@
 """
-Eish Kapoor
+Eish Kapoor & Kunal Bhandarkar
 CSE 163 AD
 Final Project
 
@@ -15,9 +15,9 @@ import urllib.request as urllib2
 from bs4 import BeautifulSoup
 
 
-def main():
+def scrape_transfer_data():
     """
-    Main method that preprocesses the years and feeds the correct url and
+    Method that preprocesses the years and feeds the correct url and
     file name to the function necessary for creating the csv of
     soccer transfers for listed years.
     """
@@ -115,7 +115,3 @@ def actual_val(value):
             value = float(value)
             value = value * 1000
     return value
-
-
-if __name__ == '__main__':
-    main()

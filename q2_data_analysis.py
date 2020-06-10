@@ -1,11 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 """
-Eish Kapoor
+Eish Kapoor & Kunal Bhandarkar
 CSE 163 AD
 Final Project
 
@@ -19,7 +13,7 @@ import pandas as pd
 from math import isclose
 
 
-def main():
+def main_analysis():
     dataset_2017 = merged_2017_data()
     dataset_2020 = merged_2020_data()
     cost_per_ovr_2017 = data_analysis(dataset_2017, "2017")
@@ -257,7 +251,3 @@ def test_dataset(dataset_2017, dataset_2020):
     if not isclose(mean_fee_2020, correct_mean_fee_2020):
         raise Exception('2020 Dataset mean fee is wrong.'
                         'Did not pass tests.')
-
-
-if __name__ == '__main__':
-    main()
