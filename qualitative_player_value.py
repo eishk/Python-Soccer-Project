@@ -36,6 +36,7 @@ def import_csv(file_name):
     # modify columns for trait features, encode 1 if they have 0 if not
     for feature in trait_features:
         data[feature] = data['player_traits'].str.contains(feature).astype(int)
+    del data['player_traits']   # added  
 
     return data
 
@@ -48,9 +49,11 @@ def build_model(data):
     'features': features_list, 'label': label_name}
     '''
     # get the features and labels from data
-    feature_mask = (data.columns != 'player_traits') & \
-        (data.columns != 'value_eur')
-    features = data.loc[:, feature_mask]
+    # feature_mask = (data.columns != 'player_traits') & \
+    #     (data.columns != 'value_eur')
+    # features = data.loc[:, feature_mask]
+    # modified   
+    features = data.loc[:, data.columns != 'value_eur']
     labels = data['value_eur']
 
     # split data into test and training
