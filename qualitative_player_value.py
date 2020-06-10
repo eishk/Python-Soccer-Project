@@ -12,6 +12,41 @@ import numpy as np
 from sklearn import tree
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeRegressor
+import os
+
+
+def test_cleaning():
+    '''
+    test_cleaning is a test function to make sure that the data is clean and
+    properly formatted before being fed to the model
+    raises an exception if it finds an error
+    '''
+    # write csv data for import_csv to read
+    test_data = pd.DataFrame({
+        'value_eur': [123000, 234000],
+        'player_traits': ['asdf, qwer, zxcv', 'qwer, jkl'],
+        'extra': [123, 234],
+        'more extra': [923, 9123]
+    })
+    test_data.to_csv('test_tmp.csv')
+
+    # get expected and received values
+    expected = pd.DataFrame({
+        'value_eur': [123000, 234000],
+        'jkl': [0, 1],
+        'asdf': [1, 0],
+        'qwer': [1, 1],
+        'zxcv': [1, 0],
+    })
+    expected = expected.reindex(sorted(expected.columns), axis=1)
+    received = import_csv('../../test_tmp.csv')
+    received = received.reindex(sorted(received.columns), axis=1)
+
+    if not received.equals(expected):
+        raise Exception('import_csv did not pass tests')
+
+    # clean extra file
+    os.remove('test_tmp.csv')
 
 
 def import_csv(file_name):
@@ -36,7 +71,7 @@ def import_csv(file_name):
     # modify columns for trait features, encode 1 if they have 0 if not
     for feature in trait_features:
         data[feature] = data['player_traits'].str.contains(feature).astype(int)
-    del data['player_traits']   # added  
+    del data['player_traits']
 
     return data
 
@@ -49,10 +84,6 @@ def build_model(data):
     'features': features_list, 'label': label_name}
     '''
     # get the features and labels from data
-    # feature_mask = (data.columns != 'player_traits') & \
-    #     (data.columns != 'value_eur')
-    # features = data.loc[:, feature_mask]
-    # modified   
     features = data.loc[:, data.columns != 'value_eur']
     labels = data['value_eur']
 
@@ -90,6 +121,7 @@ def plot_model(model_info):
     fig.savefig('regressor_tree.png')
 
     # visualization for feature importance
+    fig, _ = plt.subplots(nrows=1, ncols=1)
     heights = model.feature_importances_
     features = model_info['features']
     y_pos = np.arange(len(features))
