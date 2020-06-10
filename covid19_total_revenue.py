@@ -138,7 +138,7 @@ def get_total_revenue():
     get_totoal_revenue writes a CSV for both predicted 2020 financials and
     predicted 2020 financials taking into account COVID-19. Function also
     writes a PNG of both to current directory.
-    Returns the predicted 2020 financials of clubs due to COVID-19
+    Prints the predicted 2020 financials of clubs due to COVID-19
     '''
     # get the data for 17, 18
     data_17 = import_data('PL_finances_16-17.csv')
@@ -166,4 +166,9 @@ def get_total_revenue():
     plt.ylabel('Amount in Euros')
     plt.savefig('predicted_covid_financials_2020.png', bbox_inches='tight')
 
-    return predicted_covid
+    # print information about data
+    print('Preview Data in 2020 without COVID-19')
+    print(predicted_20.head())
+
+    print('\nPreview Data in 2020 with COVID-19')
+    print(predicted_covid.head())

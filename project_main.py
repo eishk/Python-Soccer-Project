@@ -14,9 +14,8 @@ from q2_data_analysis import main_analysis
 
 
 def main():
-    get_total_revenue(11.53)
-    get_player_value(10.00)
-    get_qualitative_value('basketball > soccer')
+    get_total_revenue()
+    get_qualitative_value()
     scrape_transfer_data()
     scrape_values_data()
     main_analysis()

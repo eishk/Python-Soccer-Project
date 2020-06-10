@@ -137,7 +137,7 @@ def get_qualitative_value():
     '''
     get_qualitative_value() cleans data and trains a model to predict
     qualitative geatures that result in a player's value.
-    Returns a dictionary of the model and it's accuracy score on test
+    prints information about the model and it's accuracy score on test
     and training data
     Saves a visualization of the model and it's most important features
     to current directory.
@@ -151,4 +151,7 @@ def get_qualitative_value():
     # plot model information
     plot_model(model_info)
 
-    return model_info
+    # print basic information about model
+    print('model features:', model_info['features'])
+    print('model label:', model_info['label'])
+    print('model accuracy score:', model_info['training_score'])
