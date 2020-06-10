@@ -7,7 +7,7 @@ This file contains the code that uses the BeautifulSoup library
 to scrape the TransferMarkt database for the transfers that occurred
 in the British Premier League. Includes transfers in and out, and scrapes
 the player's name, position, market value, actual fee paid, new team, and
-old team.
+old team. 
 """
 
 import csv
@@ -15,7 +15,7 @@ import urllib.request as urllib2
 from bs4 import BeautifulSoup
 
 
-def scrape_transfer_data():
+def main():
     """
     Method that preprocesses the years and feeds the correct url and
     file name to the function necessary for creating the csv of
@@ -115,3 +115,7 @@ def actual_val(value):
             value = float(value)
             value = value * 1000
     return value
+
+
+if __name__ == '__main__':
+    main()

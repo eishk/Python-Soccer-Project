@@ -6,7 +6,10 @@ Final Project
 This file contains the code that is used to scrape the TransferMarkt database
 for the market values of all the players in the British Premier League at a
 certain season. Using BeautifulSoup, we scraped the necessary sites for each
-club for a player's name, market value and team name to a csv.
+club for a player's name, market value and team name to a csv. This file
+works this way but needs long cool down times because the server for
+TransferMarkt think the script is attempting to overload the system, and if it
+doesn't continually work, just do one list of urls at a time separately.
 """
 
 import csv
@@ -15,7 +18,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-def scrape_values_data():
+def main():
     """
     In this main function, we pass a list of urls that the methods take and
     scrape, returning what the information we need. For each season, we just
@@ -31,7 +34,7 @@ def scrape_values_data():
              'https://www.transfermarkt.us/manchester-city/startseite/'
              'verein/281/saison_id/2018']
     scraping_function(first)
-    time.sleep(10)
+    time.sleep(60)
     second = ['https://www.transfermarkt.us/tottenham-hotspur/startseite/'
               'verein/148/saison_id/2018',
               'https://www.transfermarkt.us/fc-liverpool/startseite/'
@@ -51,7 +54,7 @@ def scrape_values_data():
              'https://www.transfermarkt.us/stoke-city/startseite/'
              'verein/512/saison_id/2018']
     scraping_function(third)
-    time.sleep(10)
+    time.sleep(60)
     fourth = ['https://www.transfermarkt.us/swansea-city/startseite'
               '/verein/2288/saison_id/2018',
               'https://www.transfermarkt.us/fc-watford/startseite/'
@@ -61,7 +64,7 @@ def scrape_values_data():
               'https://www.transfermarkt.us/west-bromwich-albion/'
               'startseite/verein/984/saison_id/2018']
     scraping_function(fourth)
-    time.sleep(10)
+    time.sleep(60)
     fifth = ['https://www.transfermarkt.us/afc-bournemouth/startseite/'
              'verein/989/saison_id/2017',
              'https://www.transfermarkt.us/brighton-amp-hove-albion/'
@@ -116,3 +119,7 @@ def scraping_function(list_of_urls):
             writer.writerow([name, value, team_name])
         time.sleep(5)
     file.close()
+
+
+if __name__ == '__main__':
+    main()
